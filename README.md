@@ -3,7 +3,7 @@ A Flutter UI kit with various kinds of widget specific and custom animations imp
 
 A new Flutter application.
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
