@@ -1,5 +1,7 @@
 # animation_kit
 
+A Flutter UI kit with various kinds of widget specific and custom animations implemented.
+
 A new Flutter application.
 
 ## Getting Started
